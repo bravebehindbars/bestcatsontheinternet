@@ -1,0 +1,6 @@
+h1
+{color: red}
+
+body
+ {background-image: url("cats/space cat 3.jpg"); background-repeat:no-repeat; background-size: cover}
+.Container {display: flex; flex-wrap:wrap;justify-content: center; padding: 5px;}
